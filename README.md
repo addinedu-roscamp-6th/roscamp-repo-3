@@ -30,7 +30,7 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 |:---:|
 | 맵 설계 |
 
-| ![System Architure](https://github.com/username/repo_name/blob/main/images/photo1.jpg) | ![State Diagram](https://github.com/username/repo_name/blob/main/images/photo2.jpg) | ![Sequence Diagram](https://github.com/username/repo_name/blob/main/images/photo3.jpg) |
+| ![System Architure](https://github.com/addinedu-roscamp-6th/roscamp-repo-3/blob/main/Pictures%20of%20Project/System%20Architure.png) | ![State Diagram](https://github.com/addinedu-roscamp-6th/roscamp-repo-3/blob/main/Pictures%20of%20Project/State%20Diagram.png) | ![Sequence Diagram](https://github.com/addinedu-roscamp-6th/roscamp-repo-3/blob/main/Pictures%20of%20Project/Sequence%20Diagram.png) |
 |:---:|:---:|:---:|
 | System Architure | State Diagram | Sequence Diagram |
 
