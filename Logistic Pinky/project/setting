@@ -1,2 +1,12 @@
 Setting file
 Start upload
+
+Operation Step
+if package name is project
+
+1. ros2 run project logistic
+   - Logistic Pinky move
+2. ros2 run project cam
+   - Start Global Camera
+3. ros2 run project robot7
+   - need to commuication
