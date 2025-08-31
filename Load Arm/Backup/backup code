@@ -1,3 +1,0 @@
-move_hand.py : hand-operated jetcobot(robot arm)
-move_start.py : init position
-grab.py : Test grab
