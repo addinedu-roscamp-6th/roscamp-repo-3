@@ -1,0 +1,8 @@
+We use Custom Msg
+
+ID, Item, Count
+This types is int, String[], int[]
+
+int ID
+String[] item
+int[] count
