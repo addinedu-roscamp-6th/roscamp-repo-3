@@ -30,6 +30,11 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 |:---:|
 | 맵 설계 |
 
+| ![System Architure](https://github.com/username/repo_name/blob/main/images/photo1.jpg) | ![State Diagram](https://github.com/username/repo_name/blob/main/images/photo2.jpg) | ![Sequence Diagram](https://github.com/username/repo_name/blob/main/images/photo3.jpg) |
+|:---:|:---:|:---:|
+| System Architure | State Diagram | Sequence Diagram |
+
+
 ## 🏆 Expected Outcomes
 - 자율주행 기술 시연(차선 인식 및 장애물 회피) -> Logistic Pinky : Camera, Mark Pinky : IR
 - 사람을 따라가는 자율주행 기술 구현(ArUco Marker)
