@@ -26,7 +26,7 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 
 ## 📸 Project Gallery
 
-| ![3D Map Design](Pictures of Project/map.png) |
+| ![3D Map Design]([Pictures of Project/map.png](https://github.com/addinedu-roscamp-6th/roscamp-repo-3/blob/main/Pictures%20of%20Project/map.png)) |
 |:---:|
 | 맵 설계 |
 
