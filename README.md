@@ -3,7 +3,10 @@
 ## Project Scenario
 이 프로젝트는 PinkyBot(Logistic Pinky, Mart Pinky), Jetcobot(Load Arm, Unload Arm)을 사용하여 진행했습니다.
 Raspberry Pi 기반으로 Camera, LiDAR, Ultrasonic를 활용하여 구현하는 것을 목표로 하였습니다.
+
 Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
+
+최종 영상 링크 : https://youtube.com/shorts/6FzRB1wkSno?feature=share
 
 ## 👥 Team Roles
 
