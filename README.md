@@ -12,10 +12,10 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 
 | 이름 | 역할 | 주요 담당 |
 |------|------|-----------|
-| 이기준 | 팀장 | Logistic Pinky 알고리즘 제작, Main Server 구축, Socket통신, ROS2 Domain Bridge 통신, Sequence Diagram, PID |
+| 이기준 | 팀장 | Logistic Pinky 알고리즘 제작, Main Server 구축, Socket(TCP, UDP)통신, ROS2 Domain Bridge 통신, Sequence Diagram, PID |
 | 양지우 | 팀원 | Load Arm 알고리즘 제작, YOLO 라벨링 및 학습, 맵 설계(3D), State Diagram |
 | 오희석 | 팀원 | Mart Pinky 알고리즘 제작, System Architecture, PID, 자료 관리 |
-| 이재성 | 팀원 | DB 구축 |
+| 이재성 | 팀원 | DB 구축, DB TCP 통신 및 저장 |
 | 정태규 | 팀원 | Unload Arm 알고리즘 제어 시스템 제작 |
 | 정성균 | 팀원 | Unload Arm 알고리즘 물체 기울기 추정 시스템 제작 |
 | 강설미 | 팀원 | Order GUI, Monitoring GUI 구축 |
