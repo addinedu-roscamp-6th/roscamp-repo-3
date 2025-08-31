@@ -1,6 +1,3 @@
-# About
-
-
 # Surpping - 마트 진열 보조 시스템
 
 ## Project Scenario
@@ -26,6 +23,12 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 - Python, SQL
 - LiDAR, Camera, Ultrasonic, IR Sensor
 - Socket(TCP, UDP), ROS2 Domain Bridge(topic)
+
+## 📸 Project Gallery
+
+| ![3D Map Design](Pictures of Project/map.png) |
+|:---:|
+| 맵 설계 |
 
 ## 🏆 Expected Outcomes
 - 자율주행 기술 시연(차선 인식 및 장애물 회피) -> Logistic Pinky : Camera, Mark Pinky : IR
