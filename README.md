@@ -12,11 +12,13 @@ Order GUI -> Mian Server -> Robots -> 진열(ArUco Marker Following Driving)
 
 | 이름 | 역할 | 주요 담당 |
 |------|------|-----------|
-| 홍길동 | 팀장 | 전체 일정 관리, 하드웨어 설계 |
-| 김철수 | 임베디드 개발 | Raspberry Pi 환경 세팅, 센서 제어(카메라, LiDAR) |
-| 이영희 | 제어 알고리즘 | 모터 제어, 주행 알고리즘 설계 |
-| 박민수 | 통신 & ROS | ROS 기반 통신, 데이터 처리 |
-| 최지훈 | 디자인 & 문서화 | 차량 구조 디자인, 발표 자료 제작 |
+| 이기준 | 팀장 | Logistic Pinky 알고리즘 제작, Main Server 구축, Socket통신, ROS2 Domain Bridge 통신, Sequence Diagram, PID |
+| 양지우 | 임베디드 개발 | Load Arm 알고리즘 제작, YOLO 라벨링 및 학습, 맵 설계(3D), State Diagram |
+| 오희석 | 제어 알고리즘 | Mart Pinky 알고리즘 제작, System Architecture, PID |
+| 이재성 | DB 구축 |
+| 정태규 | Unload Arm 알고리즘 제어 시스템 제작 |
+| 정성균 | Unload Arm 알고리즘 물체 기울기 추정 시스템 제작 |
+| 강설미 | Order GUI, Monitoring GUI 구축 |
 
 ## ⚙️ Tech Stack
 - Raspberry Pi(PinkyBot, Jetcobot)
